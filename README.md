@@ -3,7 +3,7 @@
 ## Installation
 
 ```shell
-go get -d github.com/kaneshin/tracker
+go get github.com/kaneshin/tracker
 ```
 
 
